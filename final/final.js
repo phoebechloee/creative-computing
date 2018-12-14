@@ -8,7 +8,6 @@ $( document ).ready(function() {
   var timeDelay = 200;
 
 
-  //day=25; // uncomment to skip to 25
 
   // Only work in December
   if(month === 12) {
